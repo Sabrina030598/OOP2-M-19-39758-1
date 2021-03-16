@@ -1,0 +1,7 @@
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\Task8\Task8\bin\Debug\Task8.exe.config
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\Task8\Task8\bin\Debug\Task8.exe
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\Task8\Task8\bin\Debug\Task8.pdb
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\Task8\Task8\obj\Debug\Task8.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\Task8\Task8\obj\Debug\Task8.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\Task8\Task8\obj\Debug\Task8.exe
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\Task8\Task8\obj\Debug\Task8.pdb
